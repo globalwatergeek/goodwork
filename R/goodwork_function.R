@@ -14,6 +14,7 @@ goodwork_function <- function(improveWorld = TRUE){
   }
   else{
     #print result
+    #Try harder...
     print("You did not do good work. Try again tomorrow!")
   }
 }
