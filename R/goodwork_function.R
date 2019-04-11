@@ -9,9 +9,11 @@
 
 goodwork_function <- function(improveWorld = TRUE){
   if(improveWorld == TRUE){
+    #print result
     print("You did good work!")
   }
   else{
+    #print result
     print("You did not do good work. Try again tomorrow!")
   }
 }
