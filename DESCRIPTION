@@ -1,0 +1,14 @@
+Package: goodwork
+Title: Asks if you did good work
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "",
+           family = "globalwatergeek",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package asks whether you have improved the world, and tells you that you did a good job if you did!
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
